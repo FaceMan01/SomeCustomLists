@@ -1,15 +1,10 @@
 [Adblock Plus 2.0]
 ! Version: 202511
-! Title: CustomList
-! Homepage: https://github.com/layou233/BypassRussianPornhubVerification/
-! Licence: https://github.com/layou233/BypassRussianPornhubVerification/blob/master/LICENSE
+! Title: Adblock Custom List
+! Homepage: https://github.com/FaceMan01/AdblockCustomList
 ! 
-! Please report any problems at Issues
-! in the Github (https://github.com/layou233/BypassRussianPornhubVerification/issues)
+! Please report any problems or suggestions at Issues in the Github
 ! Pull requests are welcome if you have a well done in fixing bugs!
 !--------
 ##div[id="age-verification-wrapper"]
 ##div[id="age-verification-container"]
-
-ya.ru##div[class*="Modal_visible"]
-ya.ru##div[class*="Distribution-Popup"]
